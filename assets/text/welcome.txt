@@ -1,6 +1,6 @@
 <span id="a">nerdy-page@world</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->welcome.txt<br/><br/>
 
-<p>Hello World, I am <span id="k">nerdy greeting page</span></p>
+<p>Hello World, I am a <span id="k">greeting page</span></p>
 <p> You can customize this text and put in whatever you want.</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 <p>Cheers!</p>
